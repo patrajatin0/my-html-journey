@@ -4,3 +4,4 @@
 # Day-3 Img,ancher and list tag
 # Day-4 Table tag 
 # Day-5 input selectarea textarea and options
+# Day-6 header footer article 
